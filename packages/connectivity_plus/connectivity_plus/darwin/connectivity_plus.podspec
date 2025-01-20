@@ -12,7 +12,7 @@ Downloaded by pub (not CocoaPods).
   s.homepage         = 'https://plus.fluttercommunity.dev/'
   s.license          = { :type => 'BSD', :file => '../LICENSE' }
   s.author           = { 'Flutter Community Team' => 'authors@fluttercommunity.dev' }
-  s.source           = { :http => 'https://github.com/fluttercommunity/plus_plugins/tree/main/packages/connectivity_plus' }
+  s.source           = { :http => 'https://github.com/tixngo-mobile-github/plus_plugins/tree/main/packages/connectivity_plus' }
   s.documentation_url = 'https://pub.dev/packages/connectivity_plus'
   s.source_files = 'connectivity_plus/Sources/connectivity_plus/**/*.swift'
   s.ios.dependency 'Flutter'
